@@ -2,18 +2,18 @@
 class Assets {
   Assets._();
   
-  static const String note1 = "assets/note1.wav";
+  static const String note1 = "note1.wav";
 
-  static const String note2 = "assets/note2.wav";
+  static const String note2 = "note2.wav";
 
-  static const String note3 = "assets/note3.wav";
+  static const String note3 = "note3.wav";
 
-  static const String note4 = "assets/note4.wav";
+  static const String note4 = "note4.wav";
 
-  static const String note5 = "assets/note5.wav";
+  static const String note5 = "note5.wav";
 
-  static const String note6 = "assets/note6.wav";
+  static const String note6 = "note6.wav";
 
-  static const String note7 = "assets/note7.wav";
+  static const String note7 = "note7.wav";
 }
 
